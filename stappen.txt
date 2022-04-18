@@ -1,0 +1,3 @@
+encoding = "utf-8" toevoegen bij openen file
+veranderen naar true_label == "pos"  ipv (true_label["pos"])
+
